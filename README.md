@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/dither.png" width="100%" />
+
+<br>
+
 ### <p align = "center">🛠️ MY TECHNOLOGIES</p>
 
 <p align="center">
