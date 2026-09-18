@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dither.png" width="100%" />
+<img src="./images/dither.png" width="100%" />
 
 <br>
 
